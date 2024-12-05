@@ -1,1 +1,1 @@
-The aboe given problems are for teh ads lab internal examination.
+The above given problems are for teh ads lab internal examination.
